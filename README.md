@@ -1,2 +1,3 @@
-# forum
-Music Forum &amp; Community for DAFT FM
+# README
+
+- [Click here to participate in the DAFT FM forum & commmunity discussions](https://github.com/orgs/daftfm/discussions)
